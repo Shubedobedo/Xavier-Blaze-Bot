@@ -8,6 +8,8 @@ const character = require('../config/character.json')
 module.exports = {
     name: 'save',
     description: 'For use with save rolls',
+    args: true,
+    usage: '<stat>',
     execute(message, args) {
         const save = Math.floor(Math.random() * 20) + 1
         var saveMod = 0;
