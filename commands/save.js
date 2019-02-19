@@ -12,7 +12,7 @@ module.exports = {
         const save = Math.floor(Math.random() * 20) + 1
         var saveMod = 0;
 
-
+        // need to come up with a better idea to use prof. For now just manuallt adding it
         if (args[0] == 'str') {
             saveMod = mod(character.Str) + character.Prof
         }
