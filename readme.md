@@ -10,7 +10,7 @@ That is it you can now use the bot.
 
 If you want to use this bot for your chracter you will have to clone this. You will have to update the charqacter.json file with you stats. This file is under the config folder. Afetr that you will need to deploy the code and set up your own discord bot. More info on that can be found [here](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/), this is the guild I followed and I have no issues.
 
-### How to use
+## How to use
 
 To get a full list of commands to use type.
 
@@ -31,7 +31,7 @@ In this example avier bot when then direct message on how to use the save comman
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](license.md) file for details
 
 ## Acknowledgments
 
